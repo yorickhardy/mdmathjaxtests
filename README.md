@@ -7,6 +7,7 @@ Purpose
 * $x^2+y^2=1$
 * [Linked content](linked.md)
 
+$$\begin{CD} A @>>> & B \end{CD}$$
 \begin{xy}
  \xymatrix{ A \ar[r] & B }
 \end{xy}
