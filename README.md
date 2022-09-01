@@ -8,6 +8,9 @@ Purpose
 * [Linked content](linked.md)
 
 $$\begin{CD} A @>>> & B \end{CD}$$
+
+\(\require{xypic}\)
+
 \begin{xy}
  \xymatrix{ A \ar[r] & B }
 \end{xy}
