@@ -9,19 +9,11 @@ Purpose
 
 $$\begin{CD} A @>>> & B \end{CD}$$
 
+<script type="text/javascript" src="http://sonoisa.github.io/xyjax_ext/xypic.js">
+</script>
+
 $\require{xypic}$
 
-<script type="text/javascript">
-  MathJax = {
-    loader: {
-      load: ['[custom]/xypic.js'],
-      paths: {custom: 'https://cdn.jsdelivr.net/gh/sonoisa/XyJax-v3@3.0.1/build/'}
-    },
-    tex: {
-      packages: {'[+]': ['xypic']}
-    }
-  };
-</script>
 
 \begin{xy}
  \xymatrix{ A \ar[r] & B }
