@@ -9,7 +9,7 @@ Purpose
 
 $$\begin{CD} A @>>> & B \end{CD}$$
 
-\(\require{xypic}\)
+$\require{xypic}$
 
 \begin{xy}
  \xymatrix{ A \ar[r] & B }
