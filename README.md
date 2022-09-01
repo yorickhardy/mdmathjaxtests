@@ -11,7 +11,7 @@ $$\begin{CD} A @>>> & B \end{CD}$$
 
 $\require{xypic}$
 
-<script>
+<script type="text/javascript">
   MathJax = {
     loader: {
       load: ['[custom]/xypic.js'],
