@@ -1,4 +1,4 @@
 Linked content
 --------------
 
-$$ \int_a^b e^{-st}f(t)\,dt $$
+$$ \int_a^b e^{-st}f(t) dt $$
