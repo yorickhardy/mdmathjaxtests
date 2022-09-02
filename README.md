@@ -9,7 +9,7 @@ Purpose
 
 $$\begin{CD} A @>>> & B \end{CD}$$
 
-<script type="text/javascript" src="http://sonoisa.github.io/xyjax_ext/xypic.js">
+<script type="text/javascript" src="xypic.js">
 </script>
 
 $\require{xypic}$
