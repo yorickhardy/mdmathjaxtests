@@ -6,6 +6,7 @@ Purpose
 * To experiment with MathJax and Markdown on GitHub 
 * $x^2+y^2=1$
 * [Linked content](linked.md)
+* [GitHub MarkDown specification](https://github.github.com/gfm/)
 
 $$\begin{CD} A @>>> & B \end{CD}$$
 
