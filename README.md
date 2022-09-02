@@ -9,6 +9,7 @@ Purpose
 
 $$\begin{CD} A @>>> & B \end{CD}$$
 
+*xypic* **does not work** because github disables _script_ tags:
 <script type="text/javascript" src="xypic.js">
 </script>
 
