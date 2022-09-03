@@ -1,0 +1,23 @@
+<html>
+  <head>
+    <script>
+     MathJax = {
+       loader: {
+        paths: {custom: 'https://cdn.jsdelivr.net/gh/sonoisa/XyJax-v3@3.0.1/build/'}
+       },
+       load: ['[custom]/xypic.js'],
+       tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        packages: {'[+]': ['xypic']}
+       }
+     };
+    </script>
+    <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+    </script>
+    <script type="text/javascript" id="XYPic-script" src="https://github.com/yorickhardy/mdmathjaxtests/raw/main/xypic.js">
+    </script>
+  </head>
+  <body>
+    $a^2+b^2$
+  </body>
+</html>
