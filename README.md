@@ -20,3 +20,5 @@ $\require{xypic}$
 \begin{xy}
  \xymatrix{ A \ar[r] & B }
 \end{xy}
+
+<iframe src="https://github.com/yorickhardy/mdmathjaxtests/raw/main/xypic.html"></iframe>
