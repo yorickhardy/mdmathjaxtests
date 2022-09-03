@@ -21,4 +21,4 @@ $\require{xypic}$
  \xymatrix{ A \ar[r] & B }
 \end{xy}
 
-<object src="https://github.com/yorickhardy/mdmathjaxtests/raw/main/xypic.html"></object>
+<object data="https://github.com/yorickhardy/mdmathjaxtests/raw/main/xypic.html" type="text/html"></object>
