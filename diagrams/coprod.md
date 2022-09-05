@@ -3,10 +3,12 @@
 Co-products
 -----------
 
-\begin{xy}
+<div>
+ \begin{xy}
  \xymatrix{
  A \ar[r] & A\oplus B & B \ar[l] \\
  & & \\
  & C \ar[uul]\ar[uur]\ar[uu]_{!} &
  }
 \end{xy}
+</div>
