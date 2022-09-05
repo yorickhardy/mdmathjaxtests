@@ -1,4 +1,23 @@
 # mdmathjaxtests
+# the scripts do not load when editing on GitHub, but they do load when viewing the site page
+<script>
+ MathJax = {
+  loader: {
+   load: ['[custom]/xypic.js'],
+   paths: {custom: 'https://cdn.jsdelivr.net/gh/sonoisa/XyJax-v3@3.0.1/build/'}
+  },
+  tex: {
+   inlineMath: [['$', '$'], ['\\(', '\\)']],
+   packages: {'[+]': ['xypic']}
+  }
+ };
+</script>
+<script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js"></script>
+
+Linked content
+--------------
+
+$$ \int_a^b e^{-st}f(t) dt $$
 
 Purpose
 -------
@@ -10,17 +29,14 @@ Purpose
 * [GitHub Pages site for this project](https://yorickhardy.github.io/mdmathjaxtests/)
 * [GitHub HTML page for this project](https://yorickhardy.github.io/mdmathjaxtests/xypic.html)
 
+AMSCD diagram
+-------------
+
 $$\begin{CD} A @>>> & B \end{CD}$$
 
-*xypic* **does not work** because github disables _script_ tags:
-<script type="text/javascript" src="xypic.js">
-</script>
-
-$\require{xypic}$
-
+XY-Pic diagram (only works when viewing the pages directly)
+--------------
 
 \begin{xy}
  \xymatrix{ A \ar[r] & B }
 \end{xy}
-
-<object classid="https://github.com/yorickhardy/mdmathjaxtests/raw/main/xypic.html" data="https://github.com/yorickhardy/mdmathjaxtests/raw/main/xypic.html" type="text/html"></object>
