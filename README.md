@@ -28,11 +28,13 @@ Purpose
 AMSCD diagram
 -------------
 
-$$\begin{CD} A @>>> & B \end{CD}$$
+<div>$$\begin{CD} A @>>> & B \end{CD}$$</div>
 
 XY-Pic diagram (only works when viewing the pages directly)
 --------------
 
+<div>
 \begin{xy}
  \xymatrix{ A \ar[r] & B }
 \end{xy}
+</div>
