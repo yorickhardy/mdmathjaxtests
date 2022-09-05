@@ -14,11 +14,6 @@
 </script>
 <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js"></script>
 
-Linked content
---------------
-
-$$ \int_a^b e^{-st}f(t) dt $$
-
 Purpose
 -------
 
