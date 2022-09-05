@@ -1,5 +1,5 @@
 # mdmathjaxtests
-<-- the scripts do not load when editing on GitHub, but they do load when viewing the site page -->
+<!-- the scripts do not load when editing on GitHub, but they do load when viewing the site page -->
 <script>
  MathJax = {
   loader: {
