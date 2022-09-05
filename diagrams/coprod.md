@@ -6,9 +6,9 @@ Co-products
 <div>
  \begin{xy}
  \xymatrix{
- A \ar[r] & A\oplus B & B \ar[l] \\
+ A \ar[r]\ar[ddr] & A\oplus B\ar[dd]_{!} & B \ar[l]\ar[ddl] \\
  & & \\
- & C \ar[uul]\ar[uur]\ar[uu]_{!} &
+ & C &
  }
 \end{xy}
 </div>
