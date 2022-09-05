@@ -23,7 +23,7 @@ Purpose
 * [Co-product page](diagrams/coprod.md)
 * [GitHub MarkDown specification](https://github.github.com/gfm/)
 * [GitHub Pages site for this project](https://yorickhardy.github.io/mdmathjaxtests/)
-* [GitHub HTML page for this project](https://yorickhardy.github.io/mdmathjaxtests/xypic.html)
+* [An HTML page for this project](https://yorickhardy.github.io/mdmathjaxtests/xypic.html)
 
 AMSCD diagram
 -------------
