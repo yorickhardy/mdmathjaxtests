@@ -4,7 +4,9 @@ Co-products
 -----------
 
 \begin{xy}
+ \xymatrix{
  A \ar[r] & A\oplus B & \ar[l] B \\
  & & \\
  & C \ar[uul]\ar[uur]\ar[uu]_{!}
+ }
 \end{xy}
