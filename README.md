@@ -20,7 +20,7 @@ Purpose
 * To experiment with MathJax and Markdown on GitHub 
 * $x^2+y^2=1$
 * [Linked content](linked.html)
-* [Co-product page](diagrams/coproduct.html)
+* [Co-product page](diagrams/coprod.md)
 * [GitHub MarkDown specification](https://github.github.com/gfm/)
 * [GitHub Pages site for this project](https://yorickhardy.github.io/mdmathjaxtests/)
 * [GitHub HTML page for this project](https://yorickhardy.github.io/mdmathjaxtests/xypic.html)
