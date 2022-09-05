@@ -5,7 +5,7 @@ Co-products
 
 \begin{xy}
  \xymatrix{
- A \ar[r] & A\oplus B & \ar[l] B \\
+ A \ar[r] & A\oplus B & B \ar[l] \\
  & & \\
  & C \ar[uul]\ar[uur]\ar[uu]_{!} &
  }
