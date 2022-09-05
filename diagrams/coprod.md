@@ -7,6 +7,6 @@ Co-products
  \xymatrix{
  A \ar[r] & A\oplus B & \ar[l] B \\
  & & \\
- & C \ar[uul]\ar[uur]\ar[uu]_{!}
+ & C \ar[uul]\ar[uur]\ar[uu]_{!} &
  }
 \end{xy}
